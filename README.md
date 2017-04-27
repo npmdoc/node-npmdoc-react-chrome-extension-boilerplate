@@ -1,6 +1,6 @@
 # npmdoc-react-chrome-extension-boilerplate
 
-#### api documentation for  [react-chrome-extension-boilerplate (v0.9.0)](https://github.com/jhen0409/react-chrome-extension-boilerplate#readme)  [![npm package](https://img.shields.io/npm/v/npmdoc-react-chrome-extension-boilerplate.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-react-chrome-extension-boilerplate) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-react-chrome-extension-boilerplate.svg)](https://travis-ci.org/npmdoc/node-npmdoc-react-chrome-extension-boilerplate)
+#### basic api documentation for  [react-chrome-extension-boilerplate (v0.9.0)](https://github.com/jhen0409/react-chrome-extension-boilerplate#readme)  [![npm package](https://img.shields.io/npm/v/npmdoc-react-chrome-extension-boilerplate.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-react-chrome-extension-boilerplate) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-react-chrome-extension-boilerplate.svg)](https://travis-ci.org/npmdoc/node-npmdoc-react-chrome-extension-boilerplate)
 
 #### Boilerplate for Chrome extension React.js project
 
@@ -115,7 +115,8 @@
         "test": "cross-env NODE_ENV=test mocha -r ./test/setup-app test/app",
         "test-e2e": "cross-env NODE_ENV=test mocha test/e2e"
     },
-    "version": "0.9.0"
+    "version": "0.9.0",
+    "bin": {}
 }
 ```
 
